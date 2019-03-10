@@ -1,0 +1,11 @@
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.deps.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.pdb
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\src\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.Tests.deps.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.Tests.runtimeconfig.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.Tests.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.Tests.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.pdb
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\bin\Debug\netcoreapp2.1\ShoppingCart.Tests.pdb
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.dll
+C:\Users\Jason\Desktop\Trendyol\ShoppingCart\test\ShoppingCart.Tests\obj\Debug\netcoreapp2.1\ShoppingCart.Tests.pdb
